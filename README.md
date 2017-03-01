@@ -2,4 +2,6 @@
 
 A Java-based 2D adventure game(?)
 
-Created using the LibGDX library
+Freshman term project.
+
+Created using the LibGDX library.
