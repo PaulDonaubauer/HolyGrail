@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="300" height="64" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="grass_9fall" tilewidth="32" tileheight="32">
+  <image source="grass_9fall.png" width="512" height="640"/>
+  <tile id="33">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="34">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="35">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="36">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="37">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="53">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="69">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="138">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="166">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="167">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="172">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="173">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="background2" width="300" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgyLA8AAQ==
+  </data>
+ </layer>
+ <layer name="foreground" width="300" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt3LeOFEEQBuB5C4j37sixOTbHPQDuQbAJJNgEEjwSRsLm2Bz7PNQKjbS05vZWNzPX3drvk/6gddIyUauqmJqmAQAAAAAAANg65yMXIhcjlyKXI1eyPhFAt+uRG5GbkVuR25E7WZ8IoNv9yIPIw8ijyOPIk6xPBNTuaeTVCL/7OvIm8jbyLvI+8mGEfwegr4+RT5HPkS+Rr5FvWZ8IoNv3yI/Iz8ivyO/In6xPBPCvp3wWmURWIquRteSc/g0gl52RXZHdkT0LnAFy2R85EDkYObTAGSCXo5FjkeOREwucAXJL76W2D9QPAqVZrw/UDwKl6eoD09pKPwiUYqNZu94QmKd9R+plM87+zayNZu16Q6A06b3U1lRdPSJATmldlfaI3ikFStTVI3qnFChdey95pxQoXXov2TkESmfnEKiFnUOgFr5BA9RCPwhslb7vzOsHgc3ayp2dqVOR05EzkbON/g8oV3o/6f+AUqX3k/4PKNV63yLVDwKlSedX+kGgVGk9pR8ESuW7o0Bui74X4bujQC3S+ZV+ECiVfUGgFvYFgVrYFwRqYX8QqIX9QWAlshpZi+wY8HeH/n6D/UGgrVf2RvZlfpZ57A8Cbb1yOHIk87PMY38QaOuVk03Z9ZX9QaCtV841ZddX9geBWudX+kFYPjnmV5v5v0P7g0Ct8yv9ICyfWudX+kFYPrM1ynSGdTVyLesTdbM/CMzWKNMZ1t3IvQF+d1tk+wC/07I/CMzWKNMZ1vPIi8ik+X9Xp8950vTf97E/CMzWLNMZVtofDnnuM8+3Pwik90vaHw557jPPtz8IpPdL2h8Oee5TX9kfBNL7Je0Phzz3qa/sDwJjzqvGnF/pB2H5jDmvGnN+pR+E5TPmvKrrvFn2B4G/wqP4ag==
+  </data>
+ </layer>
+ <layer name="background" width="300" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgyLA8AAQ==
+  </data>
+ </layer>
+ <layer name="background3" width="300" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgyLA8AAQ==
+  </data>
+ </layer>
+</map>
